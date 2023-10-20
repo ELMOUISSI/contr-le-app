@@ -1,0 +1,14 @@
+/* في ملف Page.css */
+.page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
